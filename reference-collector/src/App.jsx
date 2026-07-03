@@ -21,6 +21,7 @@ const CATEGORY_COLORS = {
   "Motion & Interaction": "#D9622B",
   "Tools & Kits": "#5B5F73",
   "Uncategorized": "#A6A9B0",
+  "Video & Inspiration": "#E0457B"
 };
 const CATEGORIES = Object.keys(CATEGORY_COLORS);
 
